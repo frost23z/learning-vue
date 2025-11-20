@@ -1,11 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <main class="h-screen grid place-items-center">
+    <h1 class="text-7xl font-bold">Hello world!</h1>
+  </main>
 </template>
-
-<style scoped></style>
